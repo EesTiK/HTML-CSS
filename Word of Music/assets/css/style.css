@@ -40,7 +40,7 @@ h2 {
 a, a:hover {
   outline: none;
   text-decoration: underline;
-  color: #0000FF;
+  color: #808080;
 }
 
 ul {
@@ -53,9 +53,9 @@ ul li {
   line-height: 1.5em;
 }
 
-
+/*Верхняя панель*/
 .header {
-  background-color:lightskyblue;
+  background-color:chocolate;
   height: 177px;
   font-size: 0.8em;
   margin-left: 0px;
@@ -87,8 +87,8 @@ ul li {
 
 .logo_text h2 {
   font-size: 0.9em;
-  padding: 4px 0 0 0;
-  color: #0000FF;
+  padding: 8px 0 0 0;
+  color: #000000;
 }
 
 .menubar {
@@ -106,26 +106,26 @@ ul.menu li {
   list-style: none;
   margin: 1px 2px 0 0;
 }
-/*Верхняя панель*/
+
 ul.menu li a {
-  font: normal 100% 'trebuchet ms', sans-serif;
+  font: normal 125% 'trebuchet ms', sans-serif;
   display: block;
-  height: 20px;
-  padding: 6px 35px 5px 28px;
-  color: #0000FF;
+  height: 30px;
+  padding: 5px 35px 5px 28px;
+  color: #000000;
   text-decoration: none;
 }
 
 ul.menu li.selected a {
-  color: #0000FF;
+  color: #000000;
 }
 
 ul.menu li a:hover {
-  color: #0000FF;
+  color: #000000;
 }
 
 hr {
-  border: solid 1px #0000FF;
+  border: solid 1px #000000;
 }
 
 .site_content {
@@ -145,7 +145,7 @@ hr {
   width: 222px;
   padding: 5%;
   margin: 0 0 16px 0;
-  border: solid 1px #0000FF;
+  border: solid 1px #4169E1;
   border-radius: 5px;
   background-color: #f9f9f9;
 }
@@ -197,7 +197,7 @@ hr {
 /*Рамки подборок*/
 .films_block img {
   border-radius: 5px;
-  border: solid 5px #0000FF;
+  border: solid 5px #4169E1;
   width: 22%;
 } 
 
@@ -349,7 +349,7 @@ td img {
   height: 100px;
   padding: 28px 0 5px 0;
   text-align: center;
-  background-color: lightskyblue;
+  background-color: chocolate;
   color: #a8aa94;
   margin-left: 0px;
   margin-right: 0px;
