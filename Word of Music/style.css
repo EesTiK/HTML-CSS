@@ -6,7 +6,7 @@
 body {
   font-size: 1.2em;
   background-color: #fff;
-  color: #555;
+  color: #999999;
 }
 
 p {
@@ -55,7 +55,7 @@ ul li {
 
 
 .header {
-  background-color: darkslateblue;
+  background-color: green;
   height: 177px;
   font-size: 0.8em;
   margin-left: 0px;
